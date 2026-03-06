@@ -4,8 +4,10 @@
 (*             (see file LICENSE for more details)                    *)
 (*                                                                    *)
 (*                     Copyright 2026-2031                            *)
-(*              Ce Zhang, Guowei Dou and ωensheng Yu                  *)
+(*              Ce Zhang, Guowei Dou and Wensheng Yu                  *)
 (**********************************************************************)
+
+(** Finite_Covering_Theorem *)
 
 Require Export Nested_Closed_Interval_Theorem.
 

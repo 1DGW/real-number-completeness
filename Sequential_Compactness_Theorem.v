@@ -4,10 +4,12 @@
 (*             (see file LICENSE for more details)                    *)
 (*                                                                    *)
 (*                     Copyright 2026-2031                            *)
-(*              Ce Zhang, Guowei Dou and ωensheng Yu                  *)
+(*              Ce Zhang, Guowei Dou and Wensheng Yu                  *)
 (**********************************************************************)
 
-Require Export Archimedean_Theorems2.
+(** MK_Structure1 *)
+
+Require Export Sequential_Compactness_Theorem.
 
 Definition BoundedSeq x:= IsSeq x /\
   (∃ M, M ∈ RC /\ (∀ n, n ∈ Nat -> |(x[n])| ≤ M)).

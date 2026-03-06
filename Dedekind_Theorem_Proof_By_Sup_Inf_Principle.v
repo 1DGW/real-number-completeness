@@ -4,8 +4,10 @@
 (*             (see file LICENSE for more details)                    *)
 (*                                                                    *)
 (*                     Copyright 2026-2031                            *)
-(*              Ce Zhang, Guowei Dou and ωensheng Yu                  *)
+(*              Ce Zhang, Guowei Dou and Wensheng Yu                  *)
 (**********************************************************************)
+
+(** Dedekind_Theorem_Proof_By_Sup_Inf_Principle *)
 
 Require Export Sup_Inf_Principle.
 
